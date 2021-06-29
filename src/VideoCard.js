@@ -1,5 +1,5 @@
 import React, {forwardRef} from 'react';
-import './VideoCard.css';
+import './styles/VideoCard.css';
 import TextTruncate from 'react-text-truncate';
 import { ThumbUpSharp } from '@material-ui/icons';
 
