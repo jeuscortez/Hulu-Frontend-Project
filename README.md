@@ -1,4 +1,4 @@
-# Hulu Fronend Project
+# Hulu Frontend Project
 React Project that is a clone of Hulu front end only
 
 ## License
